@@ -1,3 +1,5 @@
+# We Bare Bears Web
+
 <img src='group_pic.jpg' title='We Bare Bears Web' width='' alt='We Bare Bears Web' />
 
 *Image from Cartoon Network Studios ©2015*
