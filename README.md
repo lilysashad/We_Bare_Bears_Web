@@ -1,5 +1,7 @@
 <img src='group_pic.jpg' title='We Bare Bears Web' width='' alt='We Bare Bears Web' />
 
+*Image from Cartoon Network Studios ©2015*
+
 **We Bare Bears Web** is a practice website I made with HTML and CSS for my Coursera: Introduction to Web Development course.
 
 Submitted by: **Lily Deng**
