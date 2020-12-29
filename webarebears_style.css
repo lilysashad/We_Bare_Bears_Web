@@ -1,0 +1,107 @@
+h1{
+    color:#1978d4;
+}
+
+#intro {
+    
+    font-size:120%;
+    
+    color: #3455db;
+        
+}
+
+#opening{
+    
+    height:50%;
+}
+
+h2{
+    
+    color:#4b77be;
+    
+    margin-left:10px;
+    
+    padding-top:10px;
+}
+
+*{
+    
+    box-sizing: border-box;
+    
+}
+
+.clm{
+    
+    float:left;
+    
+    width:25%;
+    
+    padding: 25px;
+    
+}
+
+.clm img{
+    
+    height:15%;
+}
+
+#grizz_bio, #panda_bio, #icebear_bio{
+    
+    color:#3455db;
+    
+    font-size:110%;
+}
+
+body{
+    
+    background-color: gold;
+    
+}
+
+.explain{
+    
+    clear:both;
+    
+}
+
+#like0, #like1, #like2{
+    
+    color:#2e456d;
+    
+    font-size:120%;
+    
+}
+
+.affection_col{
+    
+    float:left;
+    
+    width:43%;
+    
+    padding: 10px;
+    
+}
+
+.affection_col img{
+    
+    height:15%;
+}
+
+.explain2{
+    
+    clear:both;
+    
+}
+
+.diverse_col{
+    
+    float:left;
+    
+    width:29%;
+    
+}
+
+.diverse_col img{
+    
+    height:15%;
+}
